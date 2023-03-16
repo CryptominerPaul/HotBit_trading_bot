@@ -105,9 +105,6 @@ python3 Hotbit_Bot.py
 Trading Bot Example:
 
 <img src="https://user-images.githubusercontent.com/40405385/225494942-4e4c5096-7ed6-42c5-9e04-1391720e3588.png" width="25%" alt="Hotbit_Bot">
-![image](https://user-images.githubusercontent.com/40405385/225494942-4e4c5096-7ed6-42c5-9e04-1391720e3588.png)
-
-
 
 <div style="color: yellow;">
 
