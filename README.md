@@ -19,7 +19,7 @@ cd Hotbit_Trading_Bot
 ```
 .env
 
-HotBit_Bot.py
+Hotbit_Bot.py
 ```
 Email: cryptominer8245@yahoo.com to get the files of this bot
 
